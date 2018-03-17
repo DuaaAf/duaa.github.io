@@ -1,0 +1,100 @@
+body
+{
+    /*background-color: #000000*/
+    background-image: url("http://www.yourhoroscopes.com/website/images/koptekst.gif");
+  
+  
+}
+.container
+{
+    background-image: url("http://www.yourhoroscopes.com/website/images/koptekst.gif" );
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+   
+}
+
+/*.container img
+{
+    width: 1000px;
+    height: 300px;
+}*/
+.container h1
+{   width: 1000px;
+    height: 300px;
+    background-image: url("http://www.sayidy.net/sites/default/files/styles/660xauto/public/main/articles/%D9%87%D9%84%20%D9%8A%D9%87%D8%AA%D9%85%20%D9%88%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9%20%D8%A7%D9%84%D8%B1%D8%AC%D9%84%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC%D8%9F.jpg?itok=tffkgs5f");
+    background-position: center;
+    background-repeat: no-repeat
+}
+.container h2
+{
+    text-transform: uppercase;
+    color: #8A084B;
+    /*margin-left:  200px;*/
+    text-align: center;
+    font-size:  30px ;
+    font-weight: bold; 
+}
+.container .datediv
+{
+    margin: auto;
+    /*padding-left: 380px;*/
+    text-align: center;
+    padding-top: 10px
+    
+}
+.datediv label
+{
+    display: block;
+    margin-top:  10px;
+     font-size: 30px ;
+    color: #B40431;
+    font-weight: bold
+}
+.datediv p
+{
+    font-size: 30px ;
+    color: #B40431;
+    font-weight: bold
+}
+.datediv input
+{
+    margin-left: 10px ;
+    color: #610B5E;
+    font-size: 20px;
+    padding: 5px
+}
+.datediv select
+{
+     margin-left: 10px ;
+    color: #610B5E;
+    font-size: 20px;
+    padding: 5px
+}
+.datediv input[type="submit"]
+{
+    width: 90px;
+    padding: 10px;
+    font-weight: bold;
+    margin: 10px;
+    margin-left: 450px;
+    margin-top: 60px;
+    display: block
+}
+.date
+{   margin-top: 80px;
+    color: #000000;
+    font-size: 30px;
+    padding:30px 320px;
+    /*margin-left:320px;*/
+    background-color: #FFFFFF
+}
+input[type="date"]
+{
+    text-align: center;
+    width: 400px;
+    margin-top: 50px;
+    font-size: 30px
+    
+    
+}
